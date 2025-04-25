@@ -8,3 +8,5 @@
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | CodeHawks | 64/265 |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | Code4Arena | 89/232 |
 | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold) | CodeHawks | 32/79 |
+
+Full list -> https://audits.sherlock.xyz/watson/0xlrivo
